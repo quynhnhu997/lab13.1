@@ -1,0 +1,25 @@
+.bg-img1 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url(./img/bg-img1.jpeg);
+}
+.bg-img2 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url(./img/bg-img2.jpeg);
+}
+.bg-img3 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url(./img/bg-img3.jpeg);
+}
+.textaling{
+  text-align: left;
+}
+footer { 
+  display: block;
+  font-size: 13px;
+}
+.collum2{
+  float: right;
+}
